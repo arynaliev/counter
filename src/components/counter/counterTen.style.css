@@ -1,17 +1,7 @@
-.counter {
-  background-color: grey;
-  height: 50vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
 .counterTen {
+  background-color: rgba(156, 138, 138, 0.624);
   height: 50vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  width: 100%;
 }
 
 .button-box {
@@ -31,6 +21,7 @@ button {
 button:hover {
   background-color: rgb(6, 85, 58);
 }
+
 p {
   font-size: 40px;
 }
