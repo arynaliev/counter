@@ -9,14 +9,14 @@
   gap: 30px;
 }
 
-button {
+/* button {
   width: 100px;
   font-size: 40px;
   background-color: rgb(12, 214, 146);
   color: red;
   border-radius: 5px;
   border: 1px solid black;
-}
+} */
 
 button:hover {
   background-color: rgb(6, 85, 58);
